@@ -1,0 +1,32 @@
+/* special screen */
+
+@media (max-width: 850px) {
+  .logo2 {
+    display: none;
+  }
+
+  .future-list {
+    flex-wrap: wrap;
+  }
+
+  .q {
+    height: 160px;
+    width: 100%;
+    margin-bottom: 25px;
+  }
+}
+
+@media (max-width: 810px) {
+  .end {
+    margin-top: 185px;
+  }
+}
+
+@media (max-width: 535px) {
+  .end {
+    margin-top: 630px;
+  }
+  .p1 {
+    font-size: 30px;
+  }
+}
