@@ -7,5 +7,6 @@
 # Future
 - responsive for all device
 - easy to use
+- multi languages
 # result
 [visit online website](https://uprink.com)
